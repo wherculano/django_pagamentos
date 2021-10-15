@@ -8,6 +8,7 @@ django = "*"
 cookiecutter = "*"
 django-crispy-forms = "*"
 gunicorn = "*"
+django-allauth = "*"
 
 [dev-packages]
 

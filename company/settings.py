@@ -46,7 +46,7 @@ INSTALLED_APPS = [
     'allauth.account',
     'allauth.socialaccount',
     'pages.apps.PagesConfig',
-    'crispy_forms'
+    'crispy_forms',
 ]
 
 SITE_ID = 1
