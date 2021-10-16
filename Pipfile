@@ -9,6 +9,8 @@ cookiecutter = "*"
 django-crispy-forms = "*"
 gunicorn = "*"
 django-allauth = "*"
+djangorestframework = "*"
+djangorestframework-jwt = "*"
 
 [dev-packages]
 
