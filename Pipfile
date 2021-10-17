@@ -12,8 +12,13 @@ django-allauth = "*"
 djangorestframework = "*"
 djangorestframework-jwt = "*"
 collectfast = "*"
+pytest = "*"
+python-decouple = "*"
+dj-database-url = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
+pytest-django = "*"
 
 [requires]
 python_version = "3.9"
