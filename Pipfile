@@ -11,6 +11,7 @@ gunicorn = "*"
 django-allauth = "*"
 djangorestframework = "*"
 djangorestframework-jwt = "*"
+collectfast = "*"
 
 [dev-packages]
 
